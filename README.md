@@ -1,2 +1,2 @@
 # Basic-Project
-These Repository contain my basic programs of Java
+Hello, Myself Pooja Aggarwal and this Repository contain basic programs of Java
